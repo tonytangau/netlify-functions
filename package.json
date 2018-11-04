@@ -5,7 +5,7 @@
   "author": "Tony Tang",
   "license": "MIT",
   "scripts": {
-    "dev": "netlify-lambda serve functions",
+    "start": "netlify-lambda serve functions",
     "build": "netlify-lambda build functions"
   },
   "dependencies": {
